@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace INFO2300A03XD
+namespace Assignment03XDINFO2300
 {
     public class Startup
     {
