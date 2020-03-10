@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace INFO2300A03XanderDrinnan.Pages
+namespace INFO2300A03XD.Pages
 {
     public class IndexModel : PageModel
     {

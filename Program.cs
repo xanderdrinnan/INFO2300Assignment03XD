@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace INFO2300A03XanderDrinnan
+namespace INFO2300A03XD
 {
     public class Program
     {
