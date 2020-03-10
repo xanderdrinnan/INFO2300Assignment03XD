@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Xander\\Desktop\\INFO2300Assignment3Repo\\INFO2300Assignment03XD\\INFO2300Assignment03XanderDrinnan\\INFO2300Assignment03XanderDrinnan.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Xander\\Desktop\\INFO2300Assignment3Repo\\INFO2300Assignment03XD\\INFO2300Assignment03XanderDrinnan\\INFO2300Assignment03XanderDrinnan.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xander\\Desktop\\INFO2300Assignment3Repo\\INFO2300Assignment03XD\\INFO2300Assignment03XanderDrinnan\\INFO2300Assignment03XanderDrinnan.csproj",
+        "projectName": "INFO2300Assignment03XanderDrinnan",
+        "projectPath": "C:\\Users\\Xander\\Desktop\\INFO2300Assignment3Repo\\INFO2300Assignment03XD\\INFO2300Assignment03XanderDrinnan\\INFO2300Assignment03XanderDrinnan.csproj",
+        "packagesPath": "C:\\Users\\Xander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xander\\Desktop\\INFO2300Assignment3Repo\\INFO2300Assignment03XD\\INFO2300Assignment03XanderDrinnan\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Xander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
