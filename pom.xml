@@ -11,7 +11,6 @@
 	<groupId>info2300xdrinnan03</groupId>
 	<artifactId>a03info2300xd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>a03info2300xd</name>
 	<description>Assignment 03 for INFO2300</description>
 
