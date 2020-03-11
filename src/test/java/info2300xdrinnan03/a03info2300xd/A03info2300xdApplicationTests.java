@@ -1,10 +1,10 @@
-package Assignment03XDINFO2300.info2300a03xd;
+package info2300xdrinnan03.a03info2300xd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Info2300a03xdApplicationTests {
+class A03info2300xdApplicationTests {
 
 	@Test
 	void contextLoads() {

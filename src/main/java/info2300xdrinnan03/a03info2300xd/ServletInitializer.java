@@ -1,4 +1,4 @@
-package Assignment03XDINFO2300.info2300a03xd;
+package info2300xdrinnan03.a03info2300xd;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(Info2300a03xdApplication.class);
+		return application.sources(A03info2300xdApplication.class);
 	}
 
 }

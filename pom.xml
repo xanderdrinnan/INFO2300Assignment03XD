@@ -8,15 +8,15 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>Assignment03XDINFO2300</groupId>
-	<artifactId>info2300a03xd</artifactId>
+	<groupId>info2300xdrinnan03</groupId>
+	<artifactId>a03info2300xd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>info2300a03xd</name>
+	<name>a03info2300xd</name>
 	<description>Assignment 03 for INFO2300</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
